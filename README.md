@@ -2,7 +2,7 @@
 
 # Hackintosh for HP 800G1, 4770hq using Opencore and Support macOS Big Sur
 
-**此EFI在[shidongfei2](https://github.com/shidongfei2)修改升级**
+**此EFI在[shidongfei2](https://github.com/shidongfei2)的基础上修改升级**
 
 ---
 
