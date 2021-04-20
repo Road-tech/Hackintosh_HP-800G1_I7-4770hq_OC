@@ -16,8 +16,6 @@
 
 HP 800G1 DM，在Haswell时代的1L小主机里是很有特色的存在，不仅可以上魔改u，还支持M.2 NVME协议的2280。空间充裕还可以上个2.5寸硬盘和白果拆机卡。在当时（购入与2019年底）看来，不论是入坑macOS还是windows日常办公，这都是一个台很好玩且有性价比的小主机。
 
-
-
 总结一下，这台机子的优势是：
 
 1. 可以使用四代魔改移动的 CPU，比较低的价格就可以上 i7 八核（曾经）；
@@ -33,16 +31,16 @@ HP 800G1 DM，在Haswell时代的1L小主机里是很有特色的存在，不仅
 
 ## 硬件
 
-|                     | Specifications / 型号                | Note / 备注 |
-| ------------------- |:----------------------------------:|:---------:|
-| Motherboard/主板:     | HP 800 G1                          |           |
-| CPU/处理器:            | I7-4770hq                          |           |
-| CPU Cooler/散热器:     | 自带                                 |           |
-| Hard Drive/硬盘:      | Toshiba RD500 256gb                |           |
-| RAM/内存:             | xiede 8G DDR3L 1600MHz X2          |           |
-| Wireless Card/无线网卡: | BCM94360CS2                        | 苹果拆机卡     |
-| Tower Case/机箱:      | 自带                                 |           |
-| Power/电源:           | 7.4/5.5mm 19v 90w DC power adapter |           |
+|                     	| Specifications / 型号               	| Note / 备注	|
+| ------------------- 	|:------------------------------------:	|:------------:	|
+| Motherboard/主板:     	| HP 800 G1                         	|           	|
+| CPU/处理器:           	| I7-4770hq                       		|           	|
+| CPU Cooler/散热器:    	| 自带                              		|           	|
+| Hard Drive/硬盘:      	| Toshiba RD500 256gb              		|           	|
+| RAM/内存:             	| 协德 8G DDR3L 1600MHz X2          		|           	|
+| Wireless Card/无线网卡:	| BCM94360CS2                      		| 苹果拆机卡     	|
+| Tower Case/机箱:      	| 自带                                 	|           	|
+| Power/电源:           	| 7.4/5.5mm 19v 90w DC power adapter 	|           	|
 
 ---
 
