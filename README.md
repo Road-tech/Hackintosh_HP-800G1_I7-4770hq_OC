@@ -1,4 +1,4 @@
-![HP 800 G1](https://github.com/Road-tech/hp_800_g1_mini_hackintosh/blob/master/hp_800_g1.png?raw=true)
+![HP 800 G1](https://github.com/Road-tech/Hackintosh_HP-800G1_I7-4770hq_OC/blob/main/hp_800_g1.png?raw=true)
 
 # Hackintosh for HP 800G1, 4770hq using Opencore and Support macOS Big Sur  
 
