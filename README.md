@@ -31,16 +31,16 @@ HP 800G1 DM，在Haswell时代的1L小主机里是很有特色的存在，不仅
 
 ## 硬件
 
-|                     	| Specifications / 型号               	| Note / 备注	|
-| ------------------- 	|:------------------------------------:	|:------------:	|
-| Motherboard/主板:     	| HP 800 G1                         	|           	|
-| CPU/处理器:           	| I7-4770hq                       		|           	|
-| CPU Cooler/散热器:    	| 自带                              		|           	|
-| Hard Drive/硬盘:      	| Toshiba RD500 256gb              		|           	|
-| RAM/内存:             	| 协德 8G DDR3L 1600MHz X2          		|           	|
-| Wireless Card/无线网卡:	| BCM94360CS2                      		| 苹果拆机卡     	|
-| Tower Case/机箱:      	| 自带                                 	|           	|
-| Power/电源:           	| 7.4/5.5mm 19v 90w DC power adapter 	|           	|
+|                     | Specifications / 型号                | Note / 备注 |
+| ------------------- |:----------------------------------:|:---------:|
+| Motherboard/主板:     | HP 800 G1                          |           |
+| CPU/处理器:            | I7-4770hq                          |           |
+| CPU Cooler/散热器:     | 自带                                 |           |
+| Hard Drive/硬盘:      | Toshiba RD500 256gb                |           |
+| RAM/内存:             | 协德 8G DDR3L 1600MHz X2             |           |
+| Wireless Card/无线网卡: | BCM94360CS2                        | 苹果拆机卡     |
+| Tower Case/机箱:      | 自带                                 |           |
+| Power/电源:           | 7.4/5.5mm 19v 90w DC power adapter |           |
 
 ---
 
